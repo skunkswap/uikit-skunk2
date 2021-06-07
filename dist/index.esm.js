@@ -2356,7 +2356,7 @@ var PanelFooter = function (_a) {
                                 
           React.createElement(SocialEntry, null,
              (React.createElement(PriceLink, { href: priceLink, target: "_blank" },
-                React.createElement(Logo, { width: "24px", mr: "8px" }),
+                React.createElement(Logo, { width: "80px", mr: "8px" }),
             ))),                               
                                 
                                 
