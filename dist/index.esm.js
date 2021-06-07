@@ -2362,7 +2362,7 @@ var PanelFooter = function (_a) {
                                 
                                 
                                 
-          React.createElement(Logo),
+          React.createElement(Logo, { width: "500px", mr: "8px" }),
                                       
                                 
                                 
