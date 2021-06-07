@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { useLocation } from "react-router-dom";
-import { SvgProps } from "../../components/Svg";
+import { PancakeRoundIcon, SvgProps } from "../../components/Svg";
 import * as IconModule from "./icons";
 import Accordion from "./Accordion";
 import { MenuEntry, LinkLabel } from "./MenuEntry";
@@ -64,6 +64,10 @@ const PanelBody: React.FC<Props> = ({ isPushed, pushNav, isMobile, links }) => {
           </MenuEntry>
         );
       })}
+      
+      
+      <PancakeRoundIcon width="24px" mr="8px" />
+      
     </Container>
   );
 };
