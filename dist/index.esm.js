@@ -2317,7 +2317,7 @@ var PanelBody = function (_a) {
                 React.createElement(LinkLabel, { isPushed: isPushed }, entry.label))));
     })),
             
-     React.createElement(rugdoc, { width: 230, mr: "5px" }),        
+     React.createElement(rugdoc, { width: 230, mr: "5px" })        
            
     );
 };
