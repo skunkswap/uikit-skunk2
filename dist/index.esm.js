@@ -2315,9 +2315,9 @@ var PanelBody = function (_a) {
             React.createElement(MenuLink, { href: entry.href, onClick: handleClick },
                 iconElement,
                 React.createElement(LinkLabel, { isPushed: isPushed }, entry.label))));
-    })),
+    }))
             
-     React.createElement(rugdoc, { width: 230, mr: "5px" })        
+            
            
     );
 };
@@ -2362,7 +2362,7 @@ var PanelFooter = function (_a) {
                                 
                                 
                                 
-         
+          React.createElement(rugdoc, { width: 230, mr: "5px" }),
                                       
                                 
                                 
