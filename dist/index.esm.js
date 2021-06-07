@@ -2362,7 +2362,7 @@ var PanelFooter = function (_a) {
                                 
                                 
                                 
-          React.createElement(rugdoc),
+          React.createElement(Logo),
                                       
                                 
                                 
