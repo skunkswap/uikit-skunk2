@@ -2308,8 +2308,9 @@ var PanelBody = function (_a) {
                 iconElement,
                 React.createElement(LinkLabel, { isPushed: isPushed }, entry.label))));
     })),
-           React__default['default'].createElement(MoonIcon, { color: isDark ? "text" : "textDisabled", width: "24px" })))
-           );
+           React__default['default'].createElement(MoonIcon, { color: isDark ? "text" : "textDisabled", width: "24px" })
+           
+    );
 };
 var templateObject_1$B;
 
