@@ -2362,9 +2362,8 @@ var PanelFooter = function (_a) {
                                 
                                 
                                 
-          React.createElement(PriceLink, { href: priceLink, target: "_blank" },
-                React.createElement(Logo),
-            ),                               
+          React.createElement(rugdoc),
+                                      
                                 
                                 
                                 
