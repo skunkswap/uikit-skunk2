@@ -77,6 +77,13 @@ const PanelFooter: React.FC<Props> = ({
 
   return (
     <Container>
+      
+      
+      
+      <PancakeRoundIcon width="24px" mr="8px" />
+      
+      
+      
       <SocialEntry>
         {cakePriceUsd ? (
           <PriceLink href={priceLink} target="_blank">
