@@ -2362,10 +2362,9 @@ var PanelFooter = function (_a) {
                                 
                                 
                                 
-          React.createElement(SocialEntry, null,
-             (React.createElement(PriceLink, { href: priceLink, target: "_blank" },
+          React.createElement(PriceLink, { href: priceLink, target: "_blank" },
                 React.createElement(Logo),
-            ))),                               
+            ),                               
                                 
                                 
                                 
