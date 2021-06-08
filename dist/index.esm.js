@@ -2362,7 +2362,7 @@ var PanelFooter = function (_a) {
                                 
                                 
                                 
-          React.createElement(rugdoc, { width: 230, mr: "5px", href: "https://rugdoc.io/project/skunkswap/", target: "_blank"}),
+          React.createElement(rugdoc, { width: 230, mr: "5px", external: true, href: "https://rugdoc.io/project/skunkswap/", target: "https://rugdoc.io/project/skunkswap/"}),
                                       
                                 
                                 
