@@ -2347,38 +2347,14 @@ var PanelFooter = function (_a) {
     
     return (React.createElement(Container$4, null,
                                 
+
                                 
                                 
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-          React.createElement(rugdoc, { width: 230, mr: "5px", external: true, href: "https://rugdoc.io/project/skunkswap/"}),
+          React.createElement(rugdoc, { width: 230, mr: "5px", as: "a", external: true, href: "https://rugdoc.io/project/skunkswap/"}),
                                       
                                 
                                 
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
+   
                                 
         React.createElement(SocialEntry, null,
             cakePriceUsd ? (React.createElement(PriceLink, { href: priceLink, target: "_blank" },
